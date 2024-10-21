@@ -2,7 +2,7 @@
 
 - **A 4th-year Computer Engineering Student at Birzeit University From Palestine**
 - Pursuing my studies while working on various projects
-- 📫 You can reach me at: **hm2003ze@gmail.com**
+- 📩 You can reach me at: **hm2003ze@gmail.com**
 
 ## Connect with me:
 
