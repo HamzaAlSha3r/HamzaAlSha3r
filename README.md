@@ -1,7 +1,7 @@
 # Hi there, I'm Hamza! 👋
 
 ## A 4th-year Computer Engineering Student at Birzeit University From Palestine
-   I am pursuing my studies and working on various projects
+## I am pursuing my studies and working on various projects
 
 ## 📫 You can reach me by : hm2003ze@gmail.com
 
@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hamza_al.shaer/profilecard/?igsh=bHdkcjNydmxsNzJ4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
-## 🛠️ Languages-Frameworks-Tools 🛠️
+## 🛠️ Languages 🛠️
 
 <p align="center">
   <!-- C -->
