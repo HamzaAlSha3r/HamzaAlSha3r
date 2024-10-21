@@ -1,8 +1,7 @@
 # Hi there, I'm Hamza! 👋
 
-## Welcome to my GitHub profile!
-
-## I am a student at Birzeit University, pursuing my studies and working on various projects.
+## A 4th-year Computer Engineering Student at Birzeit University From Palestine
+   I am pursuing my studies and working on various projects
 
 ## 📫 You can reach me by : hm2003ze@gmail.com
 
@@ -26,6 +25,23 @@
 
   <!-- MIPS Assembly -->
   <img src="https://img.shields.io/badge/MIPS%20Assembly-5B8C0F?style=for-the-badge" alt="MIPS Assembly"/>
+</p>
+
+## ⚡ Stats ⚡
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
