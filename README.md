@@ -1,8 +1,10 @@
 # Hi there, I'm Hamza! 👋
 
-Welcome to my GitHub profile! 
+## Welcome to my GitHub profile!
 
-- 📫 How to reach me: hm2003ze@gmail.com
+## I am a student at Birzeit University, pursuing my studies and working on various projects.
+
+## 📫 You can reach me by : hm2003ze@gmail.com
 
 ## Connect with me:
 
