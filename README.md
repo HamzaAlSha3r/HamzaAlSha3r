@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   
   <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://www.google.com/imgres?q=c%2B%2B%20image&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F46%2F626%2Fpng-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&docid=6YZPE4RclP23NM&tbnid=hZskkYd7rYuK-M&vet=12ahUKEwjiiPa_15-JAxU4AfsDHaY6EtAQM3oECBsQAA..i&w=920&h=920&hcb=2&ved=2ahUKEwjiiPa_15-JAxU4AfsDHaY6EtAQM3oECBsQAA)" alt="C++"/>
   
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
