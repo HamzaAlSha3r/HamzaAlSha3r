@@ -1,9 +1,8 @@
 # Hi there, I'm Hamza! 👋
 
 ## A 4th-year Computer Engineering Student at Birzeit University From Palestine
-## I am pursuing my studies and working on various projects
-
-## 📫 You can reach me by : hm2003ze@gmail.com
+    I am pursuing my studies and working on various projects
+    📫 You can reach me by : hm2003ze@gmail.com
 
 ## Connect with me:
 
