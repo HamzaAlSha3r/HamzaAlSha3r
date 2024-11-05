@@ -9,8 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamza_al.shaer/profilecard/?igsh=bHdkcjNydmxsNzJ4)
 
 ## 🛠️ Languages 🛠️
-![C]
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" />
 ![Python]
 ![MIPS Assembly]
 ![HTML]
