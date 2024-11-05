@@ -17,7 +17,7 @@
 ![CSS]
 
 ## ⚡ Stats ⚡
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)](https://git.io/streak-stats)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAlSha3r&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HamzaAlSha3r&theme=radical)](https://git.io/streak-stats)
 
