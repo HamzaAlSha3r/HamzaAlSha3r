@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hamza! 👋
 
-<!--
-**HamzaAlSha3r/HamzaAlSha3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- A 4th-year Computer Engineering Student at Birzeit University From Palestine
+- Pursuing my studies while working on various projects
+- 📧 You can reach me at: [hm2003ze@gmail.com](mailto:hm2003ze@gmail.com)
 
-Here are some ideas to get you started:
+## Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamza_al.shaer/profilecard/?igsh=bHdkcjNydmxsNzJ4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages 🛠️
+![C]
+![C++]
+![Python]
+![MIPS Assembly]
+![HTML]
+![CSS]
+
+## ⚡ Stats ⚡
+![Hamza al Sha3r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical)
+
