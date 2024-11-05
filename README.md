@@ -10,7 +10,7 @@
 
 ## 🛠️ Languages 🛠️
 ![C]
-![C++]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
 ![Python]
 ![MIPS Assembly]
 ![HTML]
