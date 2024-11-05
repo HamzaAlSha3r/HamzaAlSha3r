@@ -18,6 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
+    ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-%2370A5F0.svg?style=for-the-badge)
 </div>
 
 
