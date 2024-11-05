@@ -17,5 +17,7 @@
 ![CSS]
 
 ## ⚡ Stats ⚡
-![Hamza al Sha3r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)](https://git.io/streak-stats)
 
