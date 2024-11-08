@@ -22,7 +22,7 @@
 
 
 ### 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzaAlSha3r&theme=radical)
+![GitHub Streak](./assets/github-streak.png)
 
 ### 📊 GitHub Stats
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical)
