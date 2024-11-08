@@ -21,8 +21,6 @@
 </div>
 
 
-### 🔥 GitHub Streak Stats
-![GitHub Streak](./assets/github-streak.png)
 
 ### 📊 GitHub Stats
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical)
