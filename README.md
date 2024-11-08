@@ -21,8 +21,10 @@
 </div>
 
 
-### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzaAlSha3r&theme=radical)](https://git.io/streak-stats)
+<h3>🔥 GitHub Streak Stats</h3>
+<a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAlSha3r&theme=radical" alt="GitHub Streak">
+</a>
 
 ### 📊 GitHub Stats
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical)
