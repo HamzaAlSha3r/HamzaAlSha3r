@@ -5,11 +5,13 @@
 - 📧 You can reach me at: [hm2003ze@gmail.com](mailto:hm2003ze@gmail.com)
 
 ## Connect with me:
+
 <a href="https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="50" height="50" alt="Facebook Logo" />
 </a>
+
 <a href="https://www.linkedin.com/in/Hamza_Al-Shaer" target="_blank">
-      <i class="fa-brands fa-linkedin"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Logo" />
 </a>
 
 
