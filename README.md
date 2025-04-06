@@ -8,7 +8,7 @@
 <a href="https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="50" height="50" alt="Facebook Logo" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/Hamza_Al-Shaer" target="_blank">
       <i class="fa-brands fa-linkedin"></i>
 </a>
 
