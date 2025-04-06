@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="50" height="50" alt="Facebook Logo" />
 </a>
 
-<a href="https://www.linkedin.com/in/Hamza_Al-Shaer" target="_blank">
+<a href="www.linkedin.com/in/hamza-al-shaer-09b8b5226" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Logo" />
 </a>
 
