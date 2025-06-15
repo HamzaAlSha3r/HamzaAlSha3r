@@ -32,6 +32,6 @@
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical)
 
 ### 🌐 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAlSha3r&layout=compact&theme=radical)
+![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAlSha3r&layout=compact&theme=radical)
 
 
