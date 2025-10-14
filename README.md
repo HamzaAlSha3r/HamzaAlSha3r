@@ -1,37 +1,48 @@
-# Hi, I'm Hamza! 👋
+# 👋 Hi, I'm Hamza Al-Shaer  
 
-- A 4th-year Computer Engineering Student at Birzeit University From Palestine
-- Pursuing my studies while working on various projects
-- 📧 You can reach me at: [hm2003ze@gmail.com](mailto:hm2003ze@gmail.com)
+🎓 **5th-Year Computer Engineering Student** @ [Birzeit University](https://www.birzeit.edu)  
+🌍 **From:** Palestine 🇵🇸  
+💻 Passionate about coding, problem-solving, and building meaningful tech projects.  
+📧 **Email:** [hm2003ze@gmail.com](mailto:hm2003ze@gmail.com)
 
-## Connect with me:
+---
 
-<a href="https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="50" height="50" alt="Facebook Logo" />
-</a>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamza-al-shaer-09b8b5226/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="50" alt="Facebook" />
+  </a>
+  <a href="mailto:hm2003ze@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/hamza-al-shaer-09b8b5226/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Logo" />
-</a>
+---
 
-
-## 🛠️ Languages 🛠️
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" />       
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</div>
-
-
-
-### 📊 GitHub Stats
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical)
-
-### 🌐 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAlSha3r&layout=compact&theme=radical)
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,powershell,html,css,github,git,vscode" />
+</p>
 
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAlSha3r&layout=compact&theme=radical" height="180em" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HamzaAlSha3r&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HamzaAlSha3r&color=blueviolet" alt="Profile Views" />
+</p>
