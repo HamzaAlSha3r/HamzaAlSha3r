@@ -8,17 +8,18 @@
 
 ## 🌐 Connect With Me
 
-<p align="center" style="margin-top: 10px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/hamza-al-shaer-09b8b5226/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" style="vertical-align:middle; margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" alt="Facebook" style="vertical-align:middle; margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:hm2003ze@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50" alt="Gmail" style="vertical-align:middle; margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
