@@ -33,12 +33,6 @@
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical&cache_seconds=1800" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAlSha3r&layout=compact&theme=radical&cache_seconds=1800" height="180em" />
-</p>
-
 
 ---
 
