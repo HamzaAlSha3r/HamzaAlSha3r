@@ -1,9 +1,17 @@
 # 👋 Hi, I'm Hamza Al-Shaer  
 
-🎓 **5th-Year Computer Engineering Student** @ [Birzeit University](https://www.birzeit.edu)  
-🌍 **From:** Palestine 🇵🇸  
-💻 Passionate about coding, problem-solving, and building meaningful tech projects.  
+🎓 **Computer Engineering Student (Back-End Engineering Focus)** @ Birzeit University  
+🌍 **Based in:** Palestine 🇵🇸  
 
+💻 **Back-End Engineering**  
+Working on back-end systems, APIs, databases, and scalable architectures with a focus on clean and efficient code.
+
+
+🚀 **Skills:**  
+- Back-End Development 
+- APIs & Databases  
+- Problem Solving & Algorithms  
+- System Design (Basics)  
 ---
 
 ## 🌐 Connect With Me
