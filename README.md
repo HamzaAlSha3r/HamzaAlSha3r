@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hamza Al-Shaer  
 
 🎓 Computer Engineering graduate at Birzeit University
+
 🌍 **Based in:** Palestine 🇵🇸  
 
 💻 **Back-End Engineer**  
