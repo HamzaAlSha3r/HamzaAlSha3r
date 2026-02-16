@@ -3,7 +3,7 @@
 🎓 **Computer Engineering Student (Back-End Engineering Focus)** @ Birzeit University  
 🌍 **Based in:** Palestine 🇵🇸  
 
-💻 **Back-End Engineering**  
+💻 **Back-End Engineer**  
 Working on back-end systems, APIs, databases, and scalable architectures with a focus on clean and efficient code.
 
 
