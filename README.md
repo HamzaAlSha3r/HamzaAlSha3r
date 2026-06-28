@@ -18,29 +18,6 @@ I care about clean architecture, database optimization, and shipping real produc
 
 ---
 
-## 💼 Experience
-
-**Backend Trainee — Quizplus** · Ramallah, Palestine · *Oct 2025 – Jan 2026*
-Built a complete Spring Boot backend from scratch: **40+ REST APIs**, JWT authentication, RBAC, and an optimized PostgreSQL data layer (**~40% faster queries** via indexing, SQL tuning, and `EXPLAIN/ANALYZE` profiling).
-
----
-
-## 🛠️ Featured Projects
-
-### 🚚 Naqlati — Truck Transport Management System
-A production full-stack **PWA** used by real users for managing daily truck-transport operations and finances. Bilingual UI, PostgreSQL schema secured with **Row Level Security (RLS)** for full data isolation, split-trip & partial-payment tracking, an admin panel, and automated email notifications via serverless edge functions.
-`React` · `Vite` · `Supabase` · `PostgreSQL` · `Vercel`
-
-### 📅 Service Booking Platform — Backend API
-A scalable **Spring Boot** REST backend connecting customers with service providers (tutors, consultants, healthcare). Features JWT auth, RBAC, **Stripe** payment integration, booking & availability management, and a complete rating & review system.
-`Spring Boot` · `PostgreSQL` · `JWT` · `Stripe`
-
-### 🛒 DBMS Online Store
-A **Flask**-based online store with full backend + database integration for managing products, users, and orders, plus a responsive HTML/CSS front-end.
-`Python` · `Flask` · `HTML` · `CSS`
-
----
-
 ## 🧰 Tech Stack
 
 **Languages**
